@@ -14,13 +14,14 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 
-var routes = require('./api/routes/todoListRoutes'); //importing route
-routes(app); //register the route
+//var routes = require('./api/routes/todoListRoutes'); //importing route
+//routes(app); //register the route
 
 app.listen(port);
 
 app.use(function(req, res) {
-  res.status(404).send({url: req.originalUrl + ' not found'})
+  console.log('Time: ', Date.now() ,'. Body: ' + req.body);
+  res.json({ message : 'everything is ok'});
 });
 
 console.log('todo list RESTful API server started on: ' + port);
