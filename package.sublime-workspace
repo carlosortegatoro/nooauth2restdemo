@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"CampaignDe",
+				"CampaignDefinitionID"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/Mi documentación BBVA - ATC/PoCs/OAuthCallDemo.ampscript",
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/Mi documentación BBVA - ATC/PoCs/OAuth ASO Integrado.ampscript",
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/Mi documentación BBVA - ATC/PoCs/OAuth Tokenized Sending Call.ampscript",
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/Mi documentación BBVA - ATC/PoCs/tests.ampscript",
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/Mi documentación BBVA - ATC/PoCs/JSON example for Tokenized Sending.txt",
+		"/Users/carlos.ortega/Downloads/genesys",
+		"/Users/carlos.ortega/Downloads/smsTracking_Colombia_EntInt.sql",
+		"/Users/carlos.ortega/Downloads/_smstracking.sql",
+		"/Users/carlos.ortega/Documents/Sample_tracking_extract/Lists.csv",
+		"/Users/carlos.ortega/Documents/Sample_tracking_extract/Sent.csv",
+		"/Users/carlos.ortega/Documents/Sample_tracking_extract/Subscribers.csv",
+		"/Users/carlos.ortega/Documents/Sample_tracking_extract/Bounces.csv",
+		"/Users/carlos.ortega/Documents/Sample_tracking_extract",
+		"/Users/carlos.ortega/Downloads/Metadata",
+		"/Users/carlos.ortega/Downloads/MOBILE_TEST.csv",
+		"/Users/carlos.ortega/Downloads/test_data.csv",
+		"/Users/carlos.ortega/Downloads/test_data",
+		"/Users/carlos.ortega/Downloads/WSProxy_Update_Import_Def_Object_Via_API_SSJS.html",
+		"/Users/carlos.ortega/Downloads/fichero_participantes_training.csv",
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/Mi documentación BBVA - ATC/Training/Content Builder (Contents)/training_email_for_dyn_content.html",
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/Mi documentación BBVA - ATC/Training/Content Builder (Contents)/content_B.html",
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/Mi documentación BBVA - ATC/Training/Content Builder (Contents)/content_A.html",
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/Mi documentación BBVA - ATC/Training/Content Builder (Contents)/content_C.html",
+		"/Users/carlos.ortega/Downloads/header-bg-1.svg",
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/Mi documentación BBVA - ATC/Training/compass_newsletter_050917.html",
+		"/Users/carlos.ortega/Downloads/SFMC Users June ´17.csv",
+		"/Users/carlos.ortega/Downloads/nuevo_registro.txt",
+		"/Users/carlos.ortega/Documents/baja_push_porSubscriber.txt",
+		"/Users/carlos.ortega/Google Drive/Projects/BBVA/PushJobSubscriberMessage.csv",
+		"/Users/carlos.ortega/Google Drive/Training/Certifications/Report SuperBadge/Sanditas_Import_File_Accounts_clean_Talend.csv",
+		"/Users/carlos.ortega/Downloads/bbva_colombia_cod_campaign/Sent.csv",
+		"/Users/carlos.ortega/Downloads/bbva_colombia_cod_campaign/SendJobs.csv",
+		"/Users/carlos.ortega/Downloads/bbva_colombia_cod_campaign/Bounces.csv",
+		"/Users/carlos.ortega/Downloads/bbva_colombia_cod_campaign/Clicks.csv",
+		"/Users/carlos.ortega/Downloads/bbva_colombia_cod_campaign/Conversions.csv",
+		"/Users/carlos.ortega/Downloads/bbva_colombia_cod_campaign/Surveys.csv",
+		"/Users/carlos.ortega/Downloads/bbva_colombia_cod_campaign/Unsubs.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Attributes.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Bounces.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/ClickImpression.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Clicks.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Complaints.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Conversions.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Opens.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/SendImpression.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/SendJobImpression.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/SendJobs.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Sent.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/StatusChange.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Subscribers.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Surveys.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Unsubs.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/NotSent.csv",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract/Lists.csv",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/routes/activityUtils.js",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/app.js",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/routes/activityOffer.js",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/public/ixn/activities/offer/config.json",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/public/ixn/activities/offer/js/Offer.js",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/public/ixn/activities/offer/js/main.js",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/public/ixn/activities/offer/js/require.js",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/public/ixn/activities/offer/index.html",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/README.md",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/public/ixn/activities/offer/vendor/postmonger.js",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/public/ixn/activities/offer/vendor/postmonger.min.js",
+		"/Users/carlos.ortega/Documents/Projects/jb-activity-sample-master/routes/index.js",
+		"/Users/carlos.ortega/Downloads/New Subscriber.csv",
+		"/Users/carlos.ortega/Downloads/MobilePush.csv",
+		"/Users/carlos.ortega/Downloads/MobilePush-unsubs.csv",
+		"/Users/carlos.ortega/Downloads/jb-activity-sample-master/public/ixn/activities/offer/config.json",
+		"/Users/carlos.ortega/Downloads/Sample_tracking_extract.csv",
+		"/Users/carlos.ortega/Documents/Projects/30c839c7-8e83-4b57-a6be-99e99766ab28.csv",
+		"/Users/carlos.ortega/Documents/Projects/d50f4cd3-7e69-4bf2-8800-dea94c1d25be.csv",
+		"/Users/carlos.ortega/Documents/Projects/b5678d68-2566-4bad-9255-5e6efaa14e48.csv",
+		"/Users/carlos.ortega/Documents/Projects/f243250f-788a-40dd-8c27-fc9e699d935f.csv",
+		"/Users/carlos.ortega/Documents/Projects/dd466f02-f2b1-4065-bb96-ca89e677cf00.csv",
+		"/Users/carlos.ortega/Documents/Projects/7010c28c-f86d-4e62-bc0f-68192fd7fce3.csv",
+		"/Users/carlos.ortega/Downloads/New Subscriber",
+		"/Users/carlos.ortega/Downloads/MobilePush",
+		"/Users/carlos.ortega/Downloads/3-28-2017-DemoDayList3.csv",
+		"/Users/carlos.ortega/Downloads/Horas_BBVA_tranformed.txt",
+		"/Users/carlos.ortega/Downloads/Horas_BBVA.csv",
+		"/Users/carlos.ortega/Documents/Projects/fichero2.txt",
+		"/Users/carlos.ortega/Downloads/postman-master/SFMC.json.postman_collection",
+		"/Users/carlos.ortega/Downloads/postman-master/useraccount.postman_environment",
+		"/Users/carlos.ortega/Downloads/LoginHistory1487783478914.csv",
+		"/Users/carlos.ortega/Downloads/SQLQuery2.sql",
+		"/Users/carlos.ortega/Downloads/datos_mango_ratio_aperturas_totales.txt",
+		"/Users/carlos.ortega/Downloads/parks.xml",
+		"/Users/carlos.ortega/Downloads/callcenter.xml",
+		"/Users/carlos.ortega/Downloads/calculator.xml",
+		"/Users/carlos.ortega/Downloads/prueba.txt",
+		"/Users/carlos.ortega/Downloads/SQLQuery1.sql",
+		"/Users/carlos.ortega/Downloads/datos_mango_metricas.txt",
+		"/Users/carlos.ortega/Documents/Projects/AccountManagerTest.apxc",
+		"/Users/carlos.ortega/Documents/Projects/AccountManager.apxc",
+		"/Users/carlos.ortega/Documents/Projects/BBVA_PI_20170123.txt",
+		"/Users/carlos.ortega/Documents/Projects/BBVA_20170123.txt",
+		"/Users/carlos.ortega/Documents/Varios/Muestra_datos.txt",
+		"/Users/carlos.ortega/Documents/Varios/Datos_1.csv",
+		"/Users/carlos.ortega/Documents/Varios/contactos.txt",
+		"/Users/carlos.ortega/Downloads/BBVA_PI_20170109.txt",
+		"/Users/carlos.ortega/Downloads/BBVA_20170109.txt",
+		"/Users/carlos.ortega/Documents/prueba_datos",
+		"/Users/carlos.ortega/Downloads/report1481703676874.csv.csv",
+		"/Users/carlos.ortega/Downloads/report1481703416418.csv.csv",
+		"/Users/carlos.ortega/Downloads/report1481701542990.csv.csv",
+		"/Users/carlos.ortega/Downloads/report1481701771893.csv.csv",
+		"/Users/carlos.ortega/Downloads/pi_bbva.txt",
+		"/Users/carlos.ortega/Downloads/report1480082338042.csv",
+		"/Users/carlos.ortega/Documents/MC Self-Enablement/Aplazamientos.txt",
+		"/Users/carlos.ortega/Documents/MC Self-Enablement/ID\tFirstName\tLastName\tBirthdate\tPurchaseAmount\tPur",
+		"/Users/carlos.ortega/Downloads/tenant-secret-org-00D0Y000000avRy-ver-1.txt",
+		"/Users/carlos.ortega/Downloads/IdentityTrail-Module3-master/Module3RegistrationHandler.cls",
+		"/Users/carlos.ortega/Downloads/_sd.html",
+		"/Users/carlos.ortega/Documents/Projects/Iberia/Ramp-up/export_96049.csv",
+		"/Users/carlos.ortega/Documents/Projects/Iberia/Ramp-up/export_96050.csv",
+		"/Users/carlos.ortega/Documents/Projects/Iberia/Ramp-up/export_96047.csv",
+		"/Users/carlos.ortega/Documents/Projects/Iberia/Ramp-up/export_96052.csv",
+		"/Users/carlos.ortega/Documents/Projects/Iberia/Ramp-up/export_96053.csv",
+		"/Users/carlos.ortega/Documents/Projects/Iberia/Ramp-up/export_96054.csv",
+		"/Users/carlos.ortega/Documents/Projects/Iberia/Ramp-up/export_96056.csv",
+		"/Users/carlos.ortega/Downloads/descarga_tracking/Sent.csv",
+		"/Users/carlos.ortega/Downloads/descarga_tracking/Opens.csv",
+		"/Users/carlos.ortega/Documents/Projects/Iberia/Ramp-up/export_92865.txt",
+		"/Users/carlos.ortega/Downloads/NewURLPolicyCondition.cls",
+		"/usr/include/php/ext/standard/credits_ext.h",
+		"/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/net/ndrv.h"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"<"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\,",
+			",",
+			"OAUTH_DEMO",
+			"https//www.bbvacompass.com?utm_source=google&utm_medium=email&utm_campaign=test",
+			"<a",
+			"\"\"",
+			",",
+			"NULL",
+			"=1",
+			"=3",
+			"=2",
+			"=",
+			"=1",
+			"\"3\"",
+			"\"2\"",
+			"\"1\"",
+			";\"       \";",
+			"res",
+			"options",
+			"offers",
+			"require:",
+			"require(",
+			"trigger",
+			"journey",
+			"next",
+			"callback",
+			"Events",
+			"callback",
+			"node",
+			"trigger",
+			"point",
+			"toJbPayload",
+			"Session",
+			"token",
+			"session",
+			"token",
+			"1",
+			".png",
+			".jpg",
+			",",
+			"'Unique_Clicks'",
+			"#Unique_Clicks",
+			"'Unique_Opens'",
+			"#Unique_Opens",
+			"'Clicks'",
+			"#Clicks",
+			"'Opens'",
+			"#Opens",
+			"'Sents'",
+			"#Sents",
+			".",
+			"&",
+			"&quot;",
+			"&gt;",
+			"&lt;",
+			"group by",
+			"where",
+			".",
+			"\n",
+			"\\\\n",
+			"cajamar",
+			"mahou"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"\\\\n",
+			"OAUTH_BBVA",
+			"\"",
+			";",
+			"\\t",
+			"",
+			"=4",
+			"=3",
+			"=2",
+			"=SUMA(SI(A2=1;B2;0);SI(A3=1;B3;0);SI(A4=1;B4;0);SI(A5=1;B5;0);SI(A6=1;B6;0);SI(A7=1;B7;0);SI(A8=1;B8;0);SI(A9=1;B9;0);SI(A10=1;B10;0);SI(A11=1;B11;0);SI(A12=1;B12;0);SI(A13=1;B13;0);SI(A14=1;B14;0);SI(A15=1;B15;0);SI(A16=1;B16;0);SI(A17=1;B17;0);SI(A18=1;B18;0);SI(A19=1;B19;0);SI(A20=1;B20;0);SI(A21=1;B21;0);SI(A22=1;B22;0);SI(A23=1;B23;0);SI(A24=1;B24;0);SI(A25=1;B25;0);SI(A26=1;B26;0);SI(A27=1;B27;0);SI(A28=1;B28;0);SI(A29=1;B29;0);SI(A30=1;B30;0);SI(A31=1;B31;0);SI(A32=1;B32;0);SI(A33=1;B33;0);SI(A34=1;B34;0);SI(A35=1;B35;0);SI(A36=1;B36;0))",
+			"=2",
+			"=SUMA(SI(A2=1;B2;0);SI(A3=1;B3;0);SI(A4=1;B4;0);SI(A5=1;B5;0);SI(A6=1;B6;0);SI(A7=1;B7;0);SI(A8=1;B8;0);SI(A9=1;B9;0);SI(A10=1;B10;0);SI(A11=1;B11;0);SI(A12=1;B12;0);SI(A13=1;B13;0);SI(A14=1;B14;0);SI(A15=1;B15;0);SI(A16=1;B16;0);SI(A17=1;B17;0);SI(A18=1;B18;0);SI(A19=1;B19;0);SI(A20=1;B20;0);SI(A21=1;B21;0);SI(A22=1;B22;0);SI(A23=1;B23;0);SI(A24=1;B24;0);SI(A25=1;B25;0);SI(A26=1;B26;0);SI(A27=1;B27;0);SI(A28=1;B28;0);SI(A29=1;B29;0);SI(A30=1;B30;0);SI(A31=1;B31;0);SI(A32=1;B32;0);SI(A33=1;B33;0);SI(A34=1;B34;0);SI(A35=1;B35;0);SI(A36=1;B36;0))",
+			"=2",
+			"=4",
+			"=3",
+			"=2",
+			"\"4\"",
+			"\"3\"",
+			"\"2\"",
+			";CARACTER(10);",
+			"2",
+			";",
+			"\\t",
+			"Unique_Clicks",
+			"Unique_Opens",
+			"Clicks",
+			"Opens",
+			"Sents",
+			",",
+			"\"",
+			">",
+			"<",
+			"GROUP BY",
+			"WHERE",
+			",",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
