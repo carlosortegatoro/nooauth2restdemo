@@ -20,7 +20,7 @@ app.use(bodyParser.json());
 app.listen(port);
 
 app.use(function(req, res) {
-  console.log('Time: ', Date.now() ,'. Body: ' + req.body);
+  //console.log('Time: ', Date.now() ,'. Body: ' + req.body);
   res.json({ message : 'everything is ok'});
 });
 
